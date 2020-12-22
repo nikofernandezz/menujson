@@ -12,7 +12,7 @@
     "product" : [
         {
             "restaurantId" : 1,
-            "title" : "Almonds",
+            "title" : "Almond",
             "photo" : "",
             "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lorem pharetra, semper nisi vitae, tincidunt ante. Donec et velit justo. Sed eu condimentum tellus.",
             "price" : 300,
