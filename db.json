@@ -1,9 +1,13 @@
 {
     "user": [
-        { "id" : 1, "fullname": "mick jagger" }
+        { "id" : 1, "fullname": "mick jagger" },
+        { "id" : 2, "fullname": "joe rogan" },
+        { "id" : 3, "fullname": "michael jackson" },
     ],
     "restaurant": [
-        { "id" : 1, "title" : "cheeseheads", "userId" : 1}
+        { "id" : 1, "title" : "cheeseheads", "userId" : 1},
+        { "id" : 2, "title" : "relish", "userId" : 2},
+        { "id" : 3, "title" : "boncomida", "userId" : 3}
     ],
     "product" : [
         {
