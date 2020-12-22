@@ -1,0 +1,48 @@
+[
+    {
+        "username": "Cheeseheads",
+        "menu": [
+            {
+                "title" : "Almonds",
+                "photo" : "",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lorem pharetra, semper nisi vitae, tincidunt ante. Donec et velit justo. Sed eu condimentum tellus.",
+                "price" : 300,
+                "category" : "Main",
+                "add-ons" : [],
+                "variants" : [
+                    {
+                        "variant" : "Solo",
+                        "price" : 300,
+                        "available" : true
+                    },
+                    {
+                        "variant" : "Family",
+                        "price" : 500,
+                        "available" : true
+                    }
+                ]
+            },
+            {
+                "title" : "Amaranth",
+                "photo" : "",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lorem pharetra, semper nisi vitae, tincidunt ante. Donec et velit justo. Sed eu condimentum tellus.",
+                "price" : 200,
+                "category" : "Main",
+                "add-ons" : [],
+                "variants" : []
+            },
+            {
+                "title" : "Anchovies",
+                "photo" : "",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis lorem pharetra, semper nisi vitae, tincidunt ante. Donec et velit justo. Sed eu condimentum tellus.",
+                "price" : 200,
+                "category" : "Main",
+                "add-ons" : [],
+                "variants" : []
+            }
+        ]
+    }
+
+]
+
+
