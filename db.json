@@ -2,7 +2,7 @@
     "user": [
         { "id" : 1, "fullname": "mick jagger" },
         { "id" : 2, "fullname": "joe rogan" },
-        { "id" : 3, "fullname": "michael jackson" },
+        { "id" : 3, "fullname": "michael jackson" }
     ],
     "restaurant": [
         { "id" : 1, "title" : "cheeseheads", "userId" : 1},
